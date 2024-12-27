@@ -456,11 +456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New GIT\\DijkstrasAlgorithm\\DijkstrasAlgorithmApi\\DijkstrasAlgorithmApi.csproj",
+      "projectUniqueName": "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmApi\\DijkstrasAlgorithmApi.csproj",
       "projectName": "DijkstrasAlgorithmApi",
-      "projectPath": "D:\\New GIT\\DijkstrasAlgorithm\\DijkstrasAlgorithmApi\\DijkstrasAlgorithmApi.csproj",
+      "projectPath": "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmApi\\DijkstrasAlgorithmApi.csproj",
       "packagesPath": "C:\\Users\\Ruwan\\.nuget\\packages\\",
-      "outputPath": "D:\\New GIT\\DijkstrasAlgorithm\\DijkstrasAlgorithmApi\\obj\\",
+      "outputPath": "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

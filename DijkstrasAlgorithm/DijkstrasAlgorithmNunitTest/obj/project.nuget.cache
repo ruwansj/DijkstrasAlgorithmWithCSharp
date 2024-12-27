@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wprauqS3hZs=",
+  "dgSpecHash": "DXXQWjXTjoY=",
   "success": true,
-  "projectFilePath": "D:\\New GIT\\DijkstrasAlgorithm\\DijkstrasAlgorithmNunitTest\\DijkstrasAlgorithmNunitTest.csproj",
+  "projectFilePath": "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmNunitTest\\DijkstrasAlgorithmNunitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ruwan\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Ruwan\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

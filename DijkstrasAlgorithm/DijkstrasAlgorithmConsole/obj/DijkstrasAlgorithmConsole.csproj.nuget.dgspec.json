@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New GIT\\DijkstrasAlgorithm\\DijkstrasAlgorithmConsole\\DijkstrasAlgorithmConsole.csproj": {}
+    "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmConsole\\DijkstrasAlgorithmConsole.csproj": {}
   },
   "projects": {
-    "D:\\New GIT\\DijkstrasAlgorithm\\DijkstrasAlgorithmConsole\\DijkstrasAlgorithmConsole.csproj": {
+    "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmConsole\\DijkstrasAlgorithmConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New GIT\\DijkstrasAlgorithm\\DijkstrasAlgorithmConsole\\DijkstrasAlgorithmConsole.csproj",
+        "projectUniqueName": "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmConsole\\DijkstrasAlgorithmConsole.csproj",
         "projectName": "DijkstrasAlgorithmConsole",
-        "projectPath": "D:\\New GIT\\DijkstrasAlgorithm\\DijkstrasAlgorithmConsole\\DijkstrasAlgorithmConsole.csproj",
+        "projectPath": "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmConsole\\DijkstrasAlgorithmConsole.csproj",
         "packagesPath": "C:\\Users\\Ruwan\\.nuget\\packages\\",
-        "outputPath": "D:\\New GIT\\DijkstrasAlgorithm\\DijkstrasAlgorithmConsole\\obj\\",
+        "outputPath": "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
