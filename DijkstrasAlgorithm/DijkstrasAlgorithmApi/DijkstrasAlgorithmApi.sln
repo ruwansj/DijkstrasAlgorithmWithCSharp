@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstrasAlgorithmApi", "DijkstrasAlgorithmApi.csproj", "{304882B2-1230-4559-A0A5-166C1B1FBCC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstrasAlgorithmConsole", "..\DijkstrasAlgorithmConsole\DijkstrasAlgorithmConsole.csproj", "{F1EEC20B-DE6B-4132-A5B0-8B658CBD7106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstrasAlgorithmNunitTest", "..\DijkstrasAlgorithmNunitTest\DijkstrasAlgorithmNunitTest.csproj", "{644701CE-F4FC-4E20-9C2F-6B505580E50F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304882B2-1230-4559-A0A5-166C1B1FBCC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304882B2-1230-4559-A0A5-166C1B1FBCC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304882B2-1230-4559-A0A5-166C1B1FBCC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304882B2-1230-4559-A0A5-166C1B1FBCC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1EEC20B-DE6B-4132-A5B0-8B658CBD7106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EEC20B-DE6B-4132-A5B0-8B658CBD7106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EEC20B-DE6B-4132-A5B0-8B658CBD7106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EEC20B-DE6B-4132-A5B0-8B658CBD7106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644701CE-F4FC-4E20-9C2F-6B505580E50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644701CE-F4FC-4E20-9C2F-6B505580E50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644701CE-F4FC-4E20-9C2F-6B505580E50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644701CE-F4FC-4E20-9C2F-6B505580E50F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

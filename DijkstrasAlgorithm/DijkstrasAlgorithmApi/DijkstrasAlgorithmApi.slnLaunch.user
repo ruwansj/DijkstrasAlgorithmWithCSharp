@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "DijkstrasAlgorithmApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\DijkstrasAlgorithmConsole\\DijkstrasAlgorithmConsole.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\DijkstrasAlgorithmNunitTest\\DijkstrasAlgorithmNunitTest.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
