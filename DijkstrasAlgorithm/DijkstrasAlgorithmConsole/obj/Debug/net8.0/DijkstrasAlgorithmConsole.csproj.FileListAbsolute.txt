@@ -26,3 +26,17 @@ D:\New GIT\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\refint\
 D:\New GIT\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\DijkstrasAlgorithmConsole.pdb
 D:\New GIT\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\DijkstrasAlgorithmConsole.genruntimeconfig.cache
 D:\New GIT\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\ref\DijkstrasAlgorithmConsole.dll
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\bin\Debug\net8.0\DijkstrasAlgorithmConsole.exe
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\bin\Debug\net8.0\DijkstrasAlgorithmConsole.deps.json
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\bin\Debug\net8.0\DijkstrasAlgorithmConsole.runtimeconfig.json
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\bin\Debug\net8.0\DijkstrasAlgorithmConsole.dll
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\bin\Debug\net8.0\DijkstrasAlgorithmConsole.pdb
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\DijkstrasAlgorithmConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\DijkstrasAlgorithmConsole.AssemblyInfoInputs.cache
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\DijkstrasAlgorithmConsole.AssemblyInfo.cs
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\DijkstrasAlgorithmConsole.csproj.CoreCompileInputs.cache
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\DijkstrasAlgorithmConsole.dll
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\refint\DijkstrasAlgorithmConsole.dll
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\DijkstrasAlgorithmConsole.pdb
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\DijkstrasAlgorithmConsole.genruntimeconfig.cache
+D:\New GIT\DijkstrasAlgorithmWithCSharp\DijkstrasAlgorithm\DijkstrasAlgorithmConsole\obj\Debug\net8.0\ref\DijkstrasAlgorithmConsole.dll

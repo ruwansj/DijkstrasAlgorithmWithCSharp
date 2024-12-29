@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DijkstrasAlgorithmNunitTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e12f9f893a4c8f0197292cd92c99888b66a68eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DijkstrasAlgorithmNunitTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DijkstrasAlgorithmNunitTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

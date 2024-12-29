@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DEA227-43BE-4643-9379-3511B83DF831}|DijkstrasAlgorithmNunitTest\\DijkstrasAlgorithmNunitTest.csproj|d:\\new git\\dijkstrasalgorithmwithcsharp\\dijkstrasalgorithm\\dijkstrasalgorithmnunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DEA227-43BE-4643-9379-3511B83DF831}|DijkstrasAlgorithmNunitTest\\DijkstrasAlgorithmNunitTest.csproj|solutionrelative:dijkstrasalgorithmnunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFBD513-9867-4BE7-96DB-B5046582E861}|DijkstrasAlgorithmConsole\\DijkstrasAlgorithmConsole.csproj|d:\\new git\\dijkstrasalgorithmwithcsharp\\dijkstrasalgorithm\\dijkstrasalgorithmconsole\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFBD513-9867-4BE7-96DB-B5046582E861}|DijkstrasAlgorithmConsole\\DijkstrasAlgorithmConsole.csproj|solutionrelative:dijkstrasalgorithmconsole\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmNunitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DijkstrasAlgorithmNunitTest\\UnitTest1.cs",
+              "ToolTip": "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmNunitTest\\UnitTest1.cs",
+              "RelativeToolTip": "DijkstrasAlgorithmNunitTest\\UnitTest1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:23:40.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmConsole\\Models\\Node.cs",
+              "RelativeDocumentMoniker": "DijkstrasAlgorithmConsole\\Models\\Node.cs",
+              "ToolTip": "D:\\New GIT\\DijkstrasAlgorithmWithCSharp\\DijkstrasAlgorithm\\DijkstrasAlgorithmConsole\\Models\\Node.cs",
+              "RelativeToolTip": "DijkstrasAlgorithmConsole\\Models\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:18:27.119Z",
+              "EditorCaption": ""
             }
           ]
         }
